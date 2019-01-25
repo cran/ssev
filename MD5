@@ -1,0 +1,8 @@
+ccec81877e56353abcd804ec91809072 *DESCRIPTION
+cd9d7ea434b3c2f075bd22ceb6eaa677 *NAMESPACE
+13e2145466e019a8d9b6b7f79122d842 *R/functions.R
+1943cc31f4d98642959426b14a414aaa *man/compute_sample_size.Rd
+6a227b9097ae434b358bf6cc197c33a5 *man/ev_means_equal.Rd
+2c29a7c046e1fa7ab39ead130346d576 *man/ev_means_unequal.Rd
+6f8c8ff8b108a64ecfb652eec27da884 *man/ev_proportions.Rd
+2b86e9d91576e1bcb4e2874650f0a7fd *man/print.ssev.Rd
